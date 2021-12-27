@@ -140,7 +140,7 @@ class MainActivity : ComponentActivity() {
              */
 //---------------------------------------------------------------------------------------------\\
 
-            Column(Modifier.fillMaxSize()) {
+        /*    Column(Modifier.fillMaxSize()) {
 
                 val color = remember {
                     mutableStateOf(Color.Yellow)
@@ -164,6 +164,8 @@ class MainActivity : ComponentActivity() {
             }
 
 
+         */
+//---------------------------------------------------------------------------------------------\\
         }
     }
 }
